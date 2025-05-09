@@ -1,6 +1,6 @@
 # HealPath: Therapeutic Travel Journey
 
-<img src="cover.jpg" alt="Cover" width="600">
+<img src="Cover.png" alt="Cover" width="600">
 
 ## Team Members  
 - Heba Tarek  
@@ -9,12 +9,7 @@
 - Dana Essam  
 
 ## Project Overview  
-A platform combining travel with mental health therapy, allowing users to:
-- Plan personalized therapeutic trips  
-- Book individual/group sessions (text/audio/video)  
-- Access emergency support  
-- Choose multiple payment options  
-- Experience seamless recovery journeys  
+Therapeutic Travel offers personalized, affordable trips with mental health support. Users access expert therapy and wellness activities. The goal is stress relief, healing, and self-discovery through travel.
 
 ## Resources  
 **Design Prototype**: [Figma Link](https://www.figma.com/design/YUg1cbPdRl8MmuaiDW8nK1/Medical-Travel-web?node-id=1164-13590&t=YnFK7ZSKMmQeLgj3-1)  
