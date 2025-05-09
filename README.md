@@ -1,7 +1,7 @@
 # HealPath: Therapeutic Travel Journey
 
 <div align="center">
-  <img src="Cover.png" alt="Cover" width="75%" style="border-radius: 8px; margin: 1rem 0;">
+  <img src="Home.png" alt="Cover" width="75%" style="border-radius: 8px; margin: 1rem 0;">
 </div>
 
 ## Team Members  
