@@ -18,7 +18,6 @@ Therapeutic Travel offers personalized, affordable trips with mental health supp
 ---
 
 ## Resources  
-## Resources  
 **Design File**: [Figma Design](https://www.figma.com/design/YUg1cbPdRl8MmuaiDW8nK1/Medical-Travel-web?node-id=1164-13590&t=YnFK7ZSKMmQeLgj3-1)  
 **Interactive Prototype**: [Figma Prototype](https://www.figma.com/proto/YUg1cbPdRl8MmuaiDW8nK1/Medical-Travel-web?page-id=0%3A1&node-id=347-1785&viewport=598%2C46%2C0.03&t=U4q7UPzygxDWBFZf-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=440%3A7015&show-proto-sidebar=1)  
 **Assets & Docs**: [Google Drive](https://drive.google.com/drive/folders/1Gex7IGjkF2aOtqb0NWhVhIuY2k8T8l1j)  
